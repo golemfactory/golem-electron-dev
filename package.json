@@ -152,7 +152,7 @@
         "cross-env": "^5.0.1",
         "css-browser-selector": "^0.6.5",
         "css-loader": "^0.26.1",
-        "electron": "^2.0.3",
+        "electron": "^7.2.4",
         "electron-builder": "20.21.1",
         "electron-debug": "^1.2.0",
         "electron-devtools-installer": "2.2.4",
